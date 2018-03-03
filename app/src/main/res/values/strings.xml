@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Udacity Business Card</string>
+
+    <string name="bb">Accelerate Your Career with online courses
+developed in partnership with.</string>
+
+    <string name="NanogegreeProgram">Nanogegree Program</string>
+    <string name="Opencourses">Open courses</string>
+    <string name="address">Address: \n Udacity Inc \n 2465 Latham street \n 3rd Floor \n Motion View: \n CA94040</string>
+    <string name="website">Website: \n https://WWW.udacity.com \n Phone Number: \n 650-938-9090</string>
+    <string name="text">Don\'t let the Flow of Knowledge Stop \n Learn Anytime.Anywhere
+              \nMany Nanodegree Programs and Free Courses To Choose from:
+    </string>
+</resources>
